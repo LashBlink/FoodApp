@@ -11,8 +11,10 @@
     <color name="lightMediumGray">#80D1D1D1</color>
     <color name="darker">#424242</color>
     <color name="yellow">#FF8F00</color>
+    <color name="LightPink">#FFB9B9</color>
     <color name="strokeColor">@color/lightMediumGray</color>
     <color name="titleColor">@color/darker</color>
     <color name="descriptionColor">@color/darker</color>
     <color name="itemColor">@color/darker</color>
+    <color name="PlaceholderColor">@color/LightPink</color>
 </resources>
